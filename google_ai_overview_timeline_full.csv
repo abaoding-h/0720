@@ -1,0 +1,383 @@
+﻿sysname,query,summary
+Ovation Healthcare,Summarize Ovation Healthcare AI adoption timeline,"Ovation Healthcare's AI Adoption Timeline:
+Timeline:
+October 2024: Ovation Fertility, a division of Ovation Healthcare, in partnership with Alife Health, unveiled research on the potential of AI to improve embryo selection in In Vitro Fertilization (IVF) procedures.
+May 2024: Ovation Healthcare's Revenue Cycle Management (RCM) leaders discussed leveraging technology, including AI and Large Language Models (LLMs), to transform hospital revenue cycles and address challenges like rising labor costs and coding errors.
+Ongoing Initiatives: Ovation Healthcare emphasizes using AI as a clinical ally to reduce administrative burdens, boost efficiency, and personalize care through initiatives like OvationLab. They provide education and practical support for seamless AI adoption, including workshops, evidence-based content, and hands-on resources. This includes equipping practitioners with AI fluency, including prompt engineering skills using their CLEAR framework (Context, Limitations, Evidence, Adaptation, Review), according to OvationLab.
+Focus on Augmented Intelligence: Ovation Healthcare champions ""augmented intelligence,"" where AI supports, but never replaces, clinical judgment, to elevate care and redefine possibilities in medicine."
+HCA Healthcare,Summarize HCA Healthcare AI adoption timeline,"HCA Healthcare has increasingly adopted Artificial Intelligence (AI) in recent years, with a notable acceleration in their initiatives around 2023 and 2024.
+Timeline:
+2021: Initial collaboration with Google Cloud focused on data privacy and security, laying the groundwork for future AI integration.
+Early 2023: HCA Healthcare launched a pilot program involving approximately 75 emergency room physicians at four hospitals using Google's AI technology, in collaboration with Augmedix, to improve clinical documentation through voice-enabled medical dictation.
+August 2023: Expansion of the HCA Healthcare and Google Cloud partnership, aiming to further integrate Google's generative AI into HCA's workflows.
+2024:
+HCA Healthcare planned a broader rollout of the Augmedix AI tool across its network, following the success of the pilot program.
+Initiation of a new pilot program focused on using AI to automatically generate reports for nurse handoffs during shift changes.
+The HCA Healthcare Research Institute expanded its support for clinical research, participating in numerous studies involving AI and other technologies.
+HCA Healthcare released a Responsible AI policy with an effective date of October 1, 2024, focusing on ethical considerations, technical advancements, regulatory adherence, and innovation through AI solutions.
+HCA Healthcare planned a broader rollout of the Augmedix AI tool across its network, following the success of the pilot program.
+Initiation of a new pilot program focused on using AI to automatically generate reports for nurse handoffs during shift changes.
+The HCA Healthcare Research Institute expanded its support for clinical research, participating in numerous studies involving AI and other technologies.
+HCA Healthcare released a Responsible AI policy with an effective date of October 1, 2024, focusing on ethical considerations, technical advancements, regulatory adherence, and innovation through AI solutions.
+2025 (Expected): The Peterson Health Technology Institute (PHTI) launched its AI Taskforce to evaluate the financial and operational implications of AI-enabled administrative technologies in healthcare delivery, according to the Peterson Health Technology Institute. HCA Healthcare is likely to be a participant in these discussions given its scale and involvement in AI adoption."
+Butler Health System,Summarize Butler Health System AI adoption timeline,"Butler Health System has shown an increasing adoption of AI and related technologies in recent years
+Timeline:
+2010: Butler Health System implemented a new patient portal from PatientKeeper to help its affiliated physicians achieve ""meaningful use"" and serve as a backup during downtime.
+2023: Excela Health and Butler Health System finalized a merger agreement, appointing Ken DeFurio as the new system's CEO.
+2024: Independence Health System (which includes Butler Memorial) partnered with Japanese conglomerate Mitsui & Co. Ltd. to create Avehealth USA, a software company that will integrate AI and machine learning into healthcare services. Avehealth is tasked with collecting and analyzing IHS data from patient health records, imaging studies, lab results, and other sources to provide real-time views of patient health and system financial performance.
+2025: Predictions suggest that AI will play a more significant role in healthcare, with increasing use in areas like patient care and overcoming labor and budget shortages. Studies suggest that AI and automation will streamline time-consuming manual processes and data entry tasks, potentially improving patient outcomes and allowing clinicians to focus on patient interaction. Butler Health System is likely to continue expanding its AI initiatives to include these advancements.
+Increased Efficiency and Reduced Staff Burden: AI can automate tasks like prior authorization, freeing up clinicians' time for patient care.
+Cost Savings: Automation and improved efficiency through AI can potentially lead to cost reductions in healthcare operations.
+Faster Approvals and Better Patient Outcomes: AI can expedite processes like prior authorizations, leading to quicker care delivery and potentially improving patient satisfaction and health.
+Enhanced Data Accuracy and Compliance: AI can minimize human errors in data entry and coding, ensuring compliance with regulations like HIPAA.
+Improved Quality of Service: AI can facilitate tasks like appointment scheduling and patient triage, leading to smoother patient experiences.
+Personalized Treatment Plans: AI's ability to analyze patient data allows for personalized treatment plans, enhancing patient care and potentially leading to better outcomes.
+Challenges and Concerns: Integrating AI faces challenges such as data privacy, algorithmic bias, the need for human expertise, and the cost of implementation.
+Importance of Infrastructure and Governance: Proper infrastructure and governance are critical for effective and trustworthy AI adoption within health systems."
+Lifespan Corporation,Summarize Lifespan Corporation AI adoption timeline,"LifeSpan Corporation has been actively adopting AI technologies, particularly in the realm of healthcare, with a notable focus on enhancing efficiency and patient care
+Timeline:
+Early work: The company's engagement with AI began with research in simpler organisms like yeast and nematode worms to study aspects like lifespan, setting the stage for testing genetic and pharmacological interventions.
+Transition to complex organisms and human health: The research gradually progressed to involve more complex organisms like pet dogs in real-world environments and eventually expanded into human health applications.
+Recent advancements in generative AI: Lifespan has recently adopted generative AI to streamline surgical consent forms, demonstrating a move towards practical applications that improve administrative efficiency within the healthcare sector.
+Engagement with external collaborations: LifeSpan has also partnered with Fifty1 AI Labs, which in turn collaborates with BioSpark for AI-powered drug repurposing, signaling the company's commitment to leveraging external expertise and exploring innovative uses of AI in areas like functional medicine and personalized treatments."
+Northwell Health,Summarize Northwell Health AI adoption timeline,"Northwell Health has progressively adopted AI technologies across various aspects of its healthcare operations. Their approach encompasses partnerships, innovative internal projects, and a focus on both clinical and operational improvements
+Timeline:
+2021:
+Formed a joint venture with Aegis Ventures, committing at least $100 million to ideate, launch, and scale AI-driven companies focused on addressing healthcare challenges related to quality, equity, and cost.
+Developed an AI algorithm to predict patient stability and reduce the need for overnight vital sign checks, improving inpatient sleep and accelerating recovery and discharge times.
+Formed a joint venture with Aegis Ventures, committing at least $100 million to ideate, launch, and scale AI-driven companies focused on addressing healthcare challenges related to quality, equity, and cost.
+Developed an AI algorithm to predict patient stability and reduce the need for overnight vital sign checks, improving inpatient sleep and accelerating recovery and discharge times.
+2022:
+Entered a ten-year agreement with Clinithink to leverage natural language processing (NLP) and AI to enhance revenue cycle management processes, specifically automating initial chart reviews and identifying comorbidities to increase efficiency without adding staff.
+Partnered with Google Cloud to leverage their AI and machine learning capabilities for predictive insights in areas like capacity planning and scheduling, as well as identifying risk indicators for early intervention.
+Entered a ten-year agreement with Clinithink to leverage natural language processing (NLP) and AI to enhance revenue cycle management processes, specifically automating initial chart reviews and identifying comorbidities to increase efficiency without adding staff.
+Partnered with Google Cloud to leverage their AI and machine learning capabilities for predictive insights in areas like capacity planning and scheduling, as well as identifying risk indicators for early intervention.
+2023:
+Integrated Aidoc's AI system into 17 of their hospitals, utilizing 13 FDA-cleared AI algorithms to streamline cross-specialty care team collaboration, drive post-discharge patient follow-up, and potentially reduce hospital stays by up to two days.
+Their Innovation Challenge funded ""iNav"", an AI tool to identify cancers earlier and navigate patients faster to care, and ""StrokeFighter"", a bioelectronic therapy for stroke.
+Began using an AI algorithm to translate brain signals from patients with paralysis for the double neural bypass technology, which aims to restore movement and sensation.
+Integrated Aidoc's AI system into 17 of their hospitals, utilizing 13 FDA-cleared AI algorithms to streamline cross-specialty care team collaboration, drive post-discharge patient follow-up, and potentially reduce hospital stays by up to two days.
+Their Innovation Challenge funded ""iNav"", an AI tool to identify cancers earlier and navigate patients faster to care, and ""StrokeFighter"", a bioelectronic therapy for stroke.
+Began using an AI algorithm to translate brain signals from patients with paralysis for the double neural bypass technology, which aims to restore movement and sensation.
+2024:
+Expanded their use of Laudio's AI-enhanced platform for frontline leaders across the system, following a successful initial implementation that achieved $1 million in savings.
+Hosted the 7th annual Constellation Forum, focusing on the intersection of AI, digital therapeutics, and bioelectronic medicine, according to Moscow-Pullman Daily News.
+Emphasized the importance of data quality for effective AI and automation in healthcare, noting a focus on responsible AI implementation to maintain the ""human touch"" in care delivery.
+Expanded their use of Laudio's AI-enhanced platform for frontline leaders across the system, following a successful initial implementation that achieved $1 million in savings.
+Hosted the 7th annual Constellation Forum, focusing on the intersection of AI, digital therapeutics, and bioelectronic medicine, according to Moscow-Pullman Daily News.
+Emphasized the importance of data quality for effective AI and automation in healthcare, noting a focus on responsible AI implementation to maintain the ""human touch"" in care delivery.
+2025:
+Expanded the use of Motorola Solutions' AI-powered security cameras with analytics to detect threats and unusual activity, notifying security and clinical staff through two-way radios and push-to-talk devices.
+Deployed an AI platform designed with AssistIQ to manage surgical and procedural supply chains and recover missed revenue.
+Piloted an AI-powered case management solution from Ascertain to automate administrative tasks, allowing staff to focus on patient care.
+The Innovation Challenge awarded funding to projects such as an AI-enabled program to detect pediatric sleep apnea and an AI platform for radiology insights and continuous diagnostic improvement.
+Expanded the use of Motorola Solutions' AI-powered security cameras with analytics to detect threats and unusual activity, notifying security and clinical staff through two-way radios and push-to-talk devices.
+Deployed an AI platform designed with AssistIQ to manage surgical and procedural supply chains and recover missed revenue.
+Piloted an AI-powered case management solution from Ascertain to automate administrative tasks, allowing staff to focus on patient care.
+The Innovation Challenge awarded funding to projects such as an AI-enabled program to detect pediatric sleep apnea and an AI platform for radiology insights and continuous diagnostic improvement."
+WellSpan Health,Summarize WellSpan Health AI adoption timeline,"WellSpan Health has been actively adopting artificial intelligence (AI) across various areas of its operations to improve patient safety, address staff burnout, and enhance overall healthcare delivery
+Timeline:
+2023: Launched a pilot program of the Artisight virtual patient monitoring and nursing platform at WellSpan Surgery & Rehabilitation Hospital in York, Pennsylvania. The platform utilizes AI-powered cameras and microphones to monitor patients at risk of falls and other issues.
+March 2024: Expanded the use of Nuance Dragon Ambient eXperience (DAX) Copilot, an AI solution for automated clinical documentation during patient visits.
+Summer 2024: Full implementation of the Artisight system across the WellSpan system, including virtual sitter and virtual nurse programs.
+September 2024: WellSpan partnered with Hippocratic AI to launch ""Ana,"" a phone-based conversational AI assistant. Ana began by engaging with Spanish-speaking and English-speaking patients to improve access to cancer screenings and assist with colonoscopy preparations and follow-ups. WellSpan exceeded its response goal for surveys using the AI assistant by 275%.
+October 2024: WellSpan announced the launch of the first patient-facing Generative AI healthcare agent in the world. This expands the use of AI beyond behind-the-scenes automation to direct patient engagement.
+March 2025: WellSpan continued to leverage Ana for community health outreach, connecting residents to the Community Health Needs Survey.
+May 2025: An article noted WellSpan's innovative use of AI in virtual nursing, highlighting the launch of the Artisight platform and positive results from the pilot program.
+July 2025: An AHA case study highlighted WellSpan's successful AI adoption, including the Artisight system's positive impact on patient safety and nurse well-being. It also noted the use of Aidoc by radiologists to flag imaging abnormalities and DAX for clinical note conversion.
+Targeted Pilots: Initial AI interventions were piloted in specific areas with measurable success indicators.
+Leveraging Existing Technologies: Integrating AI tools with current data platforms and infrastructure for a cohesive approach.
+Clinician Engagement: Involving providers early in the piloting process and valuing their feedback for effective integration.
+Strategic Partnerships: Collaborating with technology partners like Artisight and Hippocratic AI to access and implement advanced solutions."
+Ardent Health Services,Summarize Ardent Health Services AI adoption timeline,"Ardent Health Services has been actively adopting AI technologies since at least 2021, focusing on improving various aspects of their operations and patient care
+Timeline:
+2021:
+Ardent partners with SwitchPoint to develop Winnow, an AI solution for clinician recruitment using predictive analytics. This aims to improve the sourcing, recruitment, and retention of clinicians.
+Ardent implements Polaris, a SwitchPoint solution using AI to predict patient volume, allowing for optimized staff deployment and improved patient care.
+Ardent partners with SwitchPoint to develop Winnow, an AI solution for clinician recruitment using predictive analytics. This aims to improve the sourcing, recruitment, and retention of clinicians.
+Ardent implements Polaris, a SwitchPoint solution using AI to predict patient volume, allowing for optimized staff deployment and improved patient care.
+2022:
+Ardent partners with Care.ai to launch a Virtual Nursing program, leveraging AI to automate routine tasks and enhance the nursing experience, starting at Lovelace Medical Center.
+Winnow is awarded the NEXT Award for Best Healthcare Startup.
+Ardent partners with Care.ai to launch a Virtual Nursing program, leveraging AI to automate routine tasks and enhance the nursing experience, starting at Lovelace Medical Center.
+Winnow is awarded the NEXT Award for Best Healthcare Startup.
+2023:
+Ardent rolls out UKG Dimensions, an AI-powered workforce management tool for scheduling, payroll, and attendance, across its network of hospitals.
+Ardent founds its in-house Innovation Studio to focus on leveraging AI to transform healthcare delivery and administration.
+Ardent expands its AI-powered care coordination with CareHarmony to 98 locations, proactively identifying patients in need of support and improving access to resources, according to Becker's Hospital Review.
+Ardent rolls out UKG Dimensions, an AI-powered workforce management tool for scheduling, payroll, and attendance, across its network of hospitals.
+Ardent founds its in-house Innovation Studio to focus on leveraging AI to transform healthcare delivery and administration.
+Ardent expands its AI-powered care coordination with CareHarmony to 98 locations, proactively identifying patients in need of support and improving access to resources, according to Becker's Hospital Review.
+2024:
+Ardent partners with Qventus to use its AI-powered Perioperative Solution to optimize its robotics program and drive strategic surgical growth.
+Ardent partners with Qventus to use its AI-powered Perioperative Solution to optimize its robotics program and drive strategic surgical growth.
+2025:
+The Ardent Health CEO expresses optimism for AI at the ViVE 2025 conference.
+The Ardent Health CEO expresses optimism for AI at the ViVE 2025 conference.
+Improving staffing and workforce management: Using AI for clinician recruitment and retention (Winnow), forecasting patient volumes (Polaris), and optimizing staff scheduling (UKG Dimensions).
+Enhancing clinical workflows and efficiency: Utilizing Virtual Nursing to automate tasks, improve patient safety through ambient monitoring, and provide clinical decision support integrated with Epic.
+Improving patient care and experience: Expanding AI-powered care coordination, remote care management, and chronic care management to provide proactive support and address social determinants of health.
+Optimizing surgical operations: Partnering with Qventus to leverage AI to maximize OR utilization, prioritize strategic cases, empower surgeons, and provide actionable market insights."
+Carilion Clinic,Summarize Carilion Clinic AI adoption timeline,"Carilion Clinic's AI adoption timeline reflects a progression from foundational data management to strategic AI integration.
+Timeline:
+Late 1990s: Carilion began digitizing outpatient medical records.
+2008: Carilion had widely adopted Electronic Health Records (EHR) across its system.
+2016: Carilion adopted the Rothman Index, a predictive analytics tool using AI to identify at-risk patients earlier, leading to more timely interventions and better outcomes.
+March 2021: Carilion partnered with MetiStream to create an AI-enabled Surgical Clinical Reviewer (SCR) to extract insights from unstructured surgical quality data in EHRs using NLP and AI. This partnership aimed to improve the efficiency, accuracy, and scope of surgical quality analysis.
+Present: Carilion uses AI across various levels of healthcare delivery, including for clinical decision support (e.g., early sepsis detection, readmission risk assessment), clinical efficiency (e.g., DAX Copilot for streamlined documentation), and operational efficiency (e.g., optimizing operating room scheduling).
+Present: The radiology department at Carilion uses AI to help physicians select the correct imaging exam (MRI or CT) based on expert consensus, providing feedback if the chosen exam doesn't align with the reason for the order.
+Ongoing: Carilion emphasizes the importance of education and training for its staff on appropriate AI use, addressing concerns about data privacy, bias, and the need for clear accountability and governance frameworks."
+Dartmouth Health,Summarize Dartmouth Health AI adoption timeline,"Dartmouth's engagement with Artificial Intelligence dates back to the very origins of the field:
+Timeline:
+1956: The term ""artificial intelligence"" was first coined at the Dartmouth Summer Research Project on Artificial Intelligence held at Dartmouth College.
+2023: Dartmouth officially launched the Center for Precision Health and Artificial Intelligence (CPHAI). The center was established with initial funding of $2 million from the Geisel School of Medicine and Dartmouth Cancer Center and is located in the Williamson Translational Research Building on the Dartmouth Hitchcock Medical Center campus. Its aim is to foster interdisciplinary research to leverage and deploy AI ethically and effectively for improved health outcomes.
+2023: The first Dartmouth AI Conference was hosted by the Tuck School of Business.
+2024: The second Dartmouth AI Conference was held in the San Francisco Bay Area. The event is now co-hosted by the Tuck School of Business and the Magnuson Center for Entrepreneurship, with support from the Thayer School of Engineering.
+April 2025: The first annual Dartmouth Symposium on Precision Health & AI brought together leaders in AI, clinicians, and biomedical researchers to explore advancements in AI-driven healthcare.
+June 2025: Dartmouth Health announced the development of PortalPal, an AI tool built to triage patient portal messages and generate follow-up questions to patients, according to Becker's Hospital Review."
+West Virginia University Health System,Summarize West Virginia University Health System AI adoption timeline,"West Virginia University (WVU) and its Health System (WVU Medicine) have been increasingly focused on artificial intelligence (AI) adoption in recent years. This timeline outlines key developments and initiatives:
+Timeline:
+October: WVU researchers secured a $4 million grant from the National Science Foundation for a project aiming to utilize AI to improve cardiovascular care and address rising healthcare costs.
+October: WVU received a $3 million National Science Foundation grant for ""Bridges in Digital Health"", a project focused on using digital health and AI to address healthcare costs, the aging population, and health disparities, particularly in rural communities.
+March: WVU pharmacists began developing an AI tool aimed at reducing patient readmission rates by identifying potential medication errors during discharge through analyzing patient records.
+February: WVU Medicine partnered with Hyro to integrate conversational AI-powered voice and web assistants into its system to improve patient access to information, scheduling, and other services, along with streamlining internal operations.
+August: The WVU Heart and Vascular Institute became the first in the region to employ an AI ""fingerprint technique"" to treat atrial fibrillation.
+October: WVU Medicine adopted generative AI for document retrieval, employing Retrieval-Augmented Generation (RAG) to enhance efficiency in accessing information within large documents, such as clinical protocols and policies.
+November: The WVU Heart and Vascular Institute became the first in the state to offer an AI-powered cardiovascular screening algorithm to improve care for its patients.
+December: WVU Medicine implemented AI technologies to improve the efficiency of patient care, aiming to streamline operations, enhance patient outcomes, and reduce administrative burdens. This includes the deployment of a RAG system to certain employees.
+January: West Virginia healthcare providers, including WVU Medicine, highlighted leveraging technology like telemedicine and advanced medical procedures to improve patient access, with a focus on innovation, recruitment, and rural access.
+March: WVU Medicine reiterated its commitment to using technology, including AI, in its strategic plan dubbed ""WVU Medicine 2035"", aiming to continue innovating over the next decade.
+April: WVU announced the launch of two new AI majors in the Fall 2025 semester.
+May: WVU Medicine Uniontown Hospital introduced AI-powered retinal cameras for early detection of diabetic eye disease within its primary care setting to increase access to this vital screening.
+May: The WVU AI Symposium was held, focusing on ""AI in Action: Navigating Challenges and Opportunities Across Domains,"" highlighting cutting-edge applications and discussions shaping the future of AI in various fields.
+May: WVU adopted formal guidance regarding the responsible use of AI in administrative operations.
+June: A WVU study highlighted potential limitations of AI in accurately diagnosing emergency room cases, emphasizing the importance of understanding AI limitations and ensuring accuracy in implementation."
+Valley Health System,Summarize Valley Health System AI adoption timeline,"Valley Health System's AI adoption timeline is characterized by the implementation of technologies in various stages, with a focus on enhancing patient care, improving operational efficiency, and addressing workforce challenges
+Timeline:
+October 2023: WellSpan Health, part of the Susquehanna Valley region, launched a pilot program with Artisight Inc., to implement a virtual patient monitoring and nursing program at WellSpan Surgery and Rehabilitation Hospital in York. The program utilized in-room audio and video connections for patient monitoring and virtual nursing, aiming to enhance patient safety and address nurse burnout by using AI to monitor patients, according to the Central Penn Business Journal.
+November 2023: Valley Health System aimed to transform care delivery with a new technology-intensive hospital, according to Healthcare IT News. This included leveraging an augmented AI system to prevent patient falls.
+January 2024: WellSpan hospitals started rolling out the Artisight system across their system, with full implementation expected by summer 2024.
+February 2024: Valley Health System highlighted the positive impact of AI on heart care, noting the increased use of wearable monitors and health monitoring technology to track physical activity, heart rate, pulse, and sleep, according to their website.
+September 2024: WellSpan Health, in collaboration with Hippocratic AI, launched a phone-based conversational AI named Ana to reach out to patients and conduct community health care surveys, according to WGAL.
+November 2024: The Valley Breeze discussed the promise and pitfalls of AI in health care, including the risk of bias in algorithms, referencing a 2019 study where a clinical algorithm showed racial bias."
+ChristianaCare,Summarize ChristianaCare AI adoption timeline,"ChristianaCare has been an early adopter of AI in healthcare, having utilized it for numerous years to enhance patient care and address health equity concerns
+Timeline:
+CareVio Platform: ChristianaCare developed a care management platform, now known as CareVio, which integrates machine learning and AI for predictive analytics. This platform helps identify patients at high risk, allowing care teams to intervene proactively and address health needs before emergency department visits or hospital admissions.
+Focus on Patient Safety and Quality: The health system has garnered national recognition for its innovative use of AI in improving patient safety and quality of care."
+UPMC,Summarize UPMC AI adoption timeline,"UPMC's AI adoption timeline shows a consistent and growing commitment to integrating artificial intelligence across its clinical and administrative operations, with significant developments in recent years.
+Timeline:
+2017: UPMC was already using AI-based algorithms for patient phenotyping and risk prediction, particularly in areas like congestive heart failure.
+April 11, 2023: UPMC publicly highlighted its efforts to incorporate AI into patient care, including exploring the use of technologies similar to ChatGPT and developing ""digital twinning"" for personalized care. They also mentioned testing technology from Abridge for automated patient interaction documentation.
+April 25, 2024: Pitt and UPMC launched the Computational Pathology and AI Center of Excellence (CPACE), a joint venture focused on research, innovation, and education in medical imaging AI.
+August 22, 2024: A survey by the Center for Connected Medicine (CCM) at UPMC indicated that executives cited AI as the most exciting and most improved technology in healthcare for the second year in a row.
+October 28, 2024: UPMC's use of ambient AI for clinician efficiency and improved patient interaction was highlighted when the organization was recognized as a ""Most Wired"" health system. This recognition also acknowledged their use of AI in stroke diagnosis and treatment.
+February 15, 2024: Research conducted by CCM and UPMC Enterprises revealed that healthcare executives are increasingly interested in the oversight of AI. This research also indicated that generative AI is being adopted, particularly through EHR vendors, for tasks like improving efficiency and automating repetitive tasks.
+October 16, 2024: UPMC Enterprises released insights on the role of AI in transforming clinical trials.
+May 14, 2025: UPMC Enterprises emphasized the importance of real-world evidence for responsible AI adoption and launched Ahavi™, a secure platform for testing and validating AI models.
+January 6, 2025: UPMC outlined its 2025 tech roadmap, prioritizing AI initiatives to enhance clinical operations and caregiver experiences, including the integration of AI within a single Epic electronic health record platform.
+January 21, 2025: UPMC Enterprises partnered with Percipio Health to utilize AI for population health monitoring and value-based care.
+January 31, 2025: UPMC Central Pa. began pioneering AI technology for treating complex aortic conditions, being the eighth institution in the U.S. and the first in Pennsylvania to use this specific software.
+February 17, 2025: UPMC Enterprises put AI at the forefront at ViVE 2025, launching its Ahavi platform for testing and evaluating AI models with real-world insights from UPMC's patient population.
+March 23, 2025: UPMC contributed to discussions about the financial and operational implications of AI in healthcare delivery systems as part of the Peterson Health Technology Institute (PHTI)'s AI Taskforce.
+April 18, 2025: The University of Pittsburgh and Leidos announced a $10 million partnership to advance Pitt's Computational Pathology and AI Center of Excellence (CPACE), focusing on developing AI-powered tools for earlier disease detection.
+May 7, 2025: UPMC Enterprises led an investment round in Carta Healthcare, a company that leverages AI to automate data extraction and standardization for registry submissions and operational analytics.
+June 3, 2025: UPMC announced a project to unify its hospitals under a single Epic EHR system, a move expected to better leverage generative AI and other innovative applications.
+June 24, 2025: UPMC Enterprises guided the implementation of BrainCheck's Cognitive Assessment Platform, indicating continued exploration and adoption of AI-powered solutions.
+July 16, 2025: UPMC Enterprises continued to highlight how its Ahavi™ Data Platform is revolutionizing healthcare research and development."
+Novant Health,Summarize Novant Health AI adoption timeline,"Novant Health's adoption of AI has been a deliberate and progressive journey, marked by key milestones and a commitment to leveraging technology for improved patient care and operational efficiency
+Timeline:
+2019:
+Novant Health launched the Institute for Innovation and Artificial Intelligence (AI) and established a dedicated data science team, marking the beginning of their formal investment in AI and machine learning. This institute focuses on developing AI-powered solutions to generate actionable data for disease prediction, diagnosis, and treatment.
+Novant Health partnered with Jvion, a prescriptive analytics company utilizing AI to reduce readmissions for patients with congestive heart failure, according to Novant Health.
+Novant Health launched the Institute for Innovation and Artificial Intelligence (AI) and established a dedicated data science team, marking the beginning of their formal investment in AI and machine learning. This institute focuses on developing AI-powered solutions to generate actionable data for disease prediction, diagnosis, and treatment.
+Novant Health partnered with Jvion, a prescriptive analytics company utilizing AI to reduce readmissions for patients with congestive heart failure, according to Novant Health.
+2020:
+Novant Health expanded access to teleneurology, employing AI-powered tools like Viz.ai to enhance stroke care, particularly in rural communities. Viz.ai, an FDA-approved computer-aided triage system, analyzes patient scans to facilitate faster stroke diagnosis and treatment.
+Novant Health expanded access to teleneurology, employing AI-powered tools like Viz.ai to enhance stroke care, particularly in rural communities. Viz.ai, an FDA-approved computer-aided triage system, analyzes patient scans to facilitate faster stroke diagnosis and treatment.
+2021:
+A new digital care platform was launched in December 2021, featuring a virtual assistant and a physician matcher that leverage automated communication and AI to connect consumers to expert support and real-time health information. Novant Health's Virtual Assistant, powered by Hyro's adaptive conversational AI technology, reduces the need for patients to speak with a live representative, resulting in improved call center operations and reduced wait times.
+A new digital care platform was launched in December 2021, featuring a virtual assistant and a physician matcher that leverage automated communication and AI to connect consumers to expert support and real-time health information. Novant Health's Virtual Assistant, powered by Hyro's adaptive conversational AI technology, reduces the need for patients to speak with a live representative, resulting in improved call center operations and reduced wait times.
+2022:
+Novant Health implemented robotic-assisted orthopedic surgery at several facilities in southeastern North Carolina, showcasing a commitment to integrating advanced robotics in patient care.
+Novant Health implemented robotic-assisted orthopedic surgery at several facilities in southeastern North Carolina, showcasing a commitment to integrating advanced robotics in patient care.
+2023:
+Novant Health partnered with Cedar to simplify the billing process, utilizing AI to boost patient engagement and improve financial outcomes.
+Novant Health integrated NuanceDAX, an AI-powered voice recognition tool that streamlines clinical documentation and enhances patient-physician interactions.
+Novant Health partnered with Cedar to simplify the billing process, utilizing AI to boost patient engagement and improve financial outcomes.
+Novant Health integrated NuanceDAX, an AI-powered voice recognition tool that streamlines clinical documentation and enhances patient-physician interactions.
+2024:
+Novant Health expanded the roles of its executive team to better leverage expertise in AI and organizational innovation, highlighting the increasing importance of AI in the health system's strategic direction, notes Novant Health.
+Novant Health expanded the roles of its executive team to better leverage expertise in AI and organizational innovation, highlighting the increasing importance of AI in the health system's strategic direction, notes Novant Health.
+2025:
+Novant Health continues to expand its AI initiatives, including the integration of DAX Copilot into various specialties and the exploration of its application in nursing practices, according to the Novant Health Foundation.
+Novant Health continues to expand its AI initiatives, including the integration of DAX Copilot into various specialties and the exploration of its application in nursing practices, according to the Novant Health Foundation."
+NewYork-Presbyterian,Summarize NewYork-Presbyterian AI adoption timeline,No AI Overview found
+New York-Presbyterian,Summarize New York-Presbyterian AI adoption timeline,No AI Overview found
+Inspira Health Network,Summarize Inspira Health Network AI adoption timeline,No AI Overview found
+MedStar Health,Summarize MedStar Health AI adoption timeline,No AI Overview found
+Yale New Haven Health,Summarize Yale New Haven Health AI adoption timeline,"Yale New Haven Health (YNHHS) has been actively adopting artificial intelligence (AI) across various aspects of healthcare, from administrative tasks to patient care and research
+Timeline:
+Early Stages (1990s-2000s): Radiologists at YNHHS, like many others, were early adopters of computer-aided detection (CAD), considered an early form of AI, for tasks like lesion detection.
+Continued AI Implementation in Radiology (Past 5 years): YNHHS has been focused on incorporating more advanced AI technologies in radiology, especially for tasks like triaging (prioritizing) radiology cases based on urgency.
+Focus on Deterioration Index (Last year): YNHHS implemented eCART, an AI deterioration index developed by the University of Chicago, to help identify patients at high risk of sudden or serious decline in condition.
+AI for Clinical Documentation (April [circa 2024]): Yale Medicine and YNHHS rolled out Abridge, an AI-powered ambient clinical documentation tool, to improve the patient-provider experience by reducing note-taking during appointments.
+Exploring Smart Beds with Ambient AI Video Technology (Ongoing): YNHHS is investing in a pilot initiative to equip 450 beds with ambient AI video technology to potentially revolutionize nursing care, improve patient safety, and streamline various tasks through AI algorithms.
+Leveraging AI for Curriculum Enhancement (June 30, 2025): Yale School of Medicine is using AI to evaluate course content for key data on women's health and SABV, suggest improvements, and reassess the curriculum after changes are made.
+Computational Health Informatics Platform Deployment (June 18, 2025): YNHHS deployed a platform for advanced analytics and precision medicine research by integrating EHR and phenotypic data with genotypic data. This expands support for initiatives like the Generations project.
+Shaping Public Health Data Science & AI (Ongoing): The Yale School of Public Health is working to enhance training in public health informatics and data science, improve access to AI training, foster partnerships, and address data privacy, security, ethics, and equity issues related to AI in public health.
+Yale Task Force on AI (January-March 2024): A Yale Task Force on AI gathered input from various schools and units to recommend coordinated action and investment areas for AI development.
+Health AI Championship (February-May 2025): YNHHS launched the Health AI Championship to foster innovation and accelerate AI adoption in healthcare across Connecticut. The competition involves various stages, from proposal submission to a final pitch and award ceremony.
+Centralized Patient Access & AI Integration (September 13, 2024 - November 2024): YNHHS announced plans to utilize AI to enhance patient access through initiatives like ""Access 365,"" involving a centralized phone number, self-service options, and the phased implementation of changes across departments, such as radiology, orthopedics, and primary care."
+LifeBridge Health,Summarize LifeBridge Health AI adoption timeline,"LifeBridge Health's AI adoption timeline showcases a gradual, yet significant, integration of AI into its healthcare operations, starting with clinical applications and expanding into virtual care solutions and broader partnerships.
+Timeline:
+Late 2016: LifeBridge Health's stroke service line (Neurology, Neurosurgery, Emergency Medicine, and Radiology) began using AI at the bedside.
+April 2019: LifeBridge Health became one of the first health systems worldwide to utilize IschemiaView's automated CT angiography AI algorithm (RAPID CTA AI) for stroke diagnosis.
+October 2021: LifeBridge Health partnered with Bayesian Health to deploy its AI-based clinical decision support platform for diagnosing and treating pressure injury, sepsis, and patient deterioration.
+September 2024: LifeBridge Health partnered with care.ai to implement virtual care solutions, starting at Sinai Hospital of Baltimore. This initiative began in a 32-bed Progressive Care Unit at Sinai Hospital and expanded to include tele-sitting services at Northwest Hospital, with plans for broader implementation across LifeBridge Health hospitals. The partnership aims to enhance workflows by using AI to create ""self-aware environments"".
+October 2024: LifeBridge Health launched a pilot at Sinai Hospital to evaluate virtual nursing care, leveraging AI to manage administrative tasks and support in-person staff.
+LifeBridge Health's research department has contributed to the development of an FDA-authorized AI tool for sepsis diagnosis.
+The organization continues to explore and implement AI solutions in various areas, including patient engagement and maternal health through digital programs."
+University of Pennsylvania Health System,Summarize University of Pennsylvania Health System AI adoption timeline,"Here's a timeline summarizing the University of Pennsylvania Health System's (Penn Medicine) recent AI adoption and initiatives:
+Timeline:
+December 2023:
+Penn Nursing and PennAITech host a roundtable on the implications of generative AI for gerontology, discussing its potential to improve the health of older adults.
+Penn Collaboratory awards grants for pilot studies using AI to improve care for older adults, including those with Alzheimer's Disease.
+Penn Nursing and PennAITech host a roundtable on the implications of generative AI for gerontology, discussing its potential to improve the health of older adults.
+Penn Collaboratory awards grants for pilot studies using AI to improve care for older adults, including those with Alzheimer's Disease.
+January 2024: Penn Medicine develops iStar, an AI tool for precision oncology that analyzes tissue images to detect cancer cells that might otherwise be missed.
+February 2024: Penn Medicine's Innovation Accelerator selects AI-powered projects focused on diabetic eye screening and cervical cancer prevention.
+July 2024: Penn Collaboratory announces over $2.5 million in grants for pilot studies using technology and AI to optimize care management and health outcomes for older Americans.
+November 2024: Penn researchers receive a grant to develop AI systems for personalized medical treatments, aiming to predict treatment response for breast cancer, heart attacks, and sepsis.
+January 2025:
+Penn Medicine resident physician Nikhil Illa launches ""Pocket Scribe,"" AI dictation software to facilitate note-taking and administrative tasks for physicians.
+Study on a machine learning technique to inform clinical decision-making for long COVID-19 care is published.
+Penn Medicine resident physician Nikhil Illa launches ""Pocket Scribe,"" AI dictation software to facilitate note-taking and administrative tasks for physicians.
+Study on a machine learning technique to inform clinical decision-making for long COVID-19 care is published.
+March 2025: PennAITech awards $2.37 million to support research on AI solutions for older adults.
+April 2025:
+Penn Medicine adopts ambient listening technology for automatically transcribing doctor-patient conversations and generating clinical notes.
+Penn Nursing study highlights the effectiveness of a nurse-centered AI tool in reducing mortality and hospital stays.
+Penn receives an $8 million award to advance mental health diagnostics using AI and integrated multimodal data.
+Penn Medicine adopts ambient listening technology for automatically transcribing doctor-patient conversations and generating clinical notes.
+Penn Nursing study highlights the effectiveness of a nurse-centered AI tool in reducing mortality and hospital stays.
+Penn receives an $8 million award to advance mental health diagnostics using AI and integrated multimodal data.
+Clinical Care: Utilizing AI for tasks like dictation and note-taking, clinical decision support, and monitoring medication adherence.
+Research and Development: Employing AI in drug discovery, personalized treatment strategies, and understanding disease mechanisms.
+Improving Patient Experience: Exploring AI for remote patient monitoring, telemedicine, and fostering better doctor-patient interactions.
+Population Health: Analyzing large datasets to understand population health dynamics and develop personalized interventions."
+Temple University Health System,Summarize Temple University Health System AI adoption timeline,"Temple University Health System has progressively adopted AI technologies across various departments and clinical operations, with key milestones including:
+Timeline:
+August 2022: A legal review examining the potential impact of AI in medicine on the legal system was published, highlighting emerging issues and challenges related to AI in healthcare.
+May 2023: Temple Health began utilizing FDA-approved AI software for faster detection and treatment of pulmonary embolism, integrated with their Pulmonary Embolism Response Team (PERT) and app system. This included flagging suspicious imaging for blood clots and enabling quicker treatment, reducing time from onset of symptoms to treatment by five to six hours.
+June 2023: Temple Health embedded AI-powered medication history and real-time prescription benefit checking solutions into its Epic electronic health record (EHR) system to improve efficiency and price transparency.
+August 2023: Temple University introduced its first AI policy, allowing flexibility for professors to integrate or limit AI in their courses.
+Fall 2023: Temple Health integrated AI into clinical care in the radiology, pulmonary, and neurology departments, and plans to research applications in additional departments. AI is now integrated into all facets of radiology to provide optimal care at the Temple Lung Center.
+February 2024: Temple Health joined a U.S. study of an AI-powered diagnostic system for the detection of deep vein thrombosis (DVT).
+June 2025: Temple Health debuted Dragon Ambient eXperience (DAX) Copilot, an AI clinical notetaking software, to improve physician satisfaction and patient care by reducing documentation time.
+July 2025: Temple Health and Coreline Soft co-hosted a webinar showcasing how Temple Lung Center leverages AI for lung cancer screening and improved patient outcomes."
+Duke University Health System,Summarize Duke University Health System AI adoption timeline,"Duke University Health System has been actively integrating Artificial Intelligence (AI) into its healthcare operations and research, with a timeline highlighting several significant developments:
+Timeline:
+Early initiatives (pre-2021): While specific dates aren't detailed, Duke likely began exploring AI in various capacities during these years, leading up to the formalization of their approach.
+2021: Duke launched the Algorithm-Based Clinical Decision Support (ABCDS) Oversight program to ensure responsible and equitable AI use in healthcare. This program includes an oversight committee that reviews all clinical algorithms for quality, safety, and fairness.
+2022: Duke collaborated with national guidelines development as part of the Coalition for Health AI (CHAI).
+January 2023: A study by Duke Health researchers, published in JAMA, compared AI algorithms for stroke risk prediction and found that while AI didn't outperform existing methods, it highlighted disparities in performance across different racial groups, underscoring the importance of addressing bias in AI development.
+August 2023: Duke Health formed a five-year strategic partnership with Microsoft to responsibly and ethically implement generative AI and cloud technology in healthcare.
+August 2023: Michael Pencina was appointed as Duke Health's first Chief Data Scientist, further cementing the institution's commitment to AI and data science.
+October 2023: A review published in Health Affairs highlighted the lack of professional diversity in AI algorithm design teams at Duke, underscoring the importance of including various healthcare professionals beyond physicians.
+April 2024: Duke University School of Nursing launched a new initiative to integrate AI into nursing education and practice, including a summer institute for healthcare educators and a fall institute specifically for the nursing community.
+May 2024: The Duke Institute for Health Innovation (DIHI) announced its 2024 innovation projects, prioritizing generative AI and Large Language Models to improve staff efficiency, patient care, and outcomes.
+September 2024: Duke Health and SAS formalized a strategic collaboration to leverage analytics and AI in healthcare, including developing AI-powered digital twinning solutions and collaborating on responsible AI initiatives.
+November 2024: Duke's Department of Pathology, in collaboration with Duke AI Health, established the Artificial Intelligence and Computational Pathology Division to enhance diagnostic accuracy, efficiency, and predictive power.
+June 2025: Duke University released new national standards for safe and scalable AI in healthcare, focusing on frameworks for evaluation, governance, and oversight throughout the AI lifecycle."
+Ascension Healthcare,Summarize Ascension Healthcare AI adoption timeline,"Ascension Healthcare, a large non-profit health system, has been actively pursuing AI adoption, demonstrating a multi-faceted approach encompassing partnerships, pilots, and strategic timelines for implementation
+Timeline:
+2019: Ascension partnered with Google to optimize health and wellness, improve patient engagement, enhance caregiver experience, and improve the efficiency of technology operations. This included the ""Project Nightingale"" initiative to move Ascension patient data onto Google's cloud services, integrate collaboration tools, and develop an electronic search tool for health records, according to Business Insider.
+2024: Ascension Saint Thomas launched egnite Inc.'s CardioCare platform to leverage AI for revolutionizing cardiovascular care. This initiative focuses on identifying at-risk patients, increasing referrals to specialists, and ensuring guideline-directed medical therapy.
+2024: Ascension Saint Thomas integrated Suki's ambient AI assistant into its residency program as part of a system-wide rollout. This AI scribe aims to relieve clinicians of administrative burdens by automatically drafting clinical notes, thereby improving efficiency and clinician well-being.
+2024–2026 (Experimentation Era): This period focuses on laying the foundation for AI adoption within the broader healthcare organization. It involves piloting tools, closing knowledge gaps, and identifying effective real-world use cases. This era prioritizes testing and learning to prepare teams for future AI integration, according to a report on the future of marketing with AI that may offer insights into their overall approach.
+2026–2028 (Acceleration Era): This phase is about scaling AI adoption with confidence. It involves embedding AI into workflows, rebuilding processes, and elevating human roles. The goal is for AI to shift from an assistant to an operational engine, potentially impacting areas like media buying, creative development, and customer experience, according to Ascension: Navigating the Future of Marketing with AI.
+2028–2030 (Elevation Era): This final stage envisions leading with intelligence and delegating to AI. As Artificial General Intelligence (AGI) potentially emerges, marketers are expected to move from task execution to orchestration, brand stewardship, and ethical oversight, becoming curators, conductors, and consciences, notes PHD Intelligence. Connected.."
+Allegheny Health Network,Summarize Allegheny Health Network AI adoption timeline,"Allegheny Health Network (AHN) has been actively adopting artificial intelligence (AI) across various aspects of its operations, with significant developments emerging especially in the past couple of years.
+Timeline:
+April 2021: AHN hosted a course on robotics, augmented reality, big data, and AI's impact on clinical orthopedic and spine practices.
+May 2023: AHN started rolling out a digital nursing program using virtual care technology with plans to expand it to all 14 hospitals by the end of 2024.
+September 2024: Over 300 AHN providers started using AI for tasks such as recording and summarizing health visits (ambient listening), aiming to reduce documentation time and potential clinician burnout.
+July 2024: AHN adopted generative AI tools, including a large language model named ""Sidekick,"" developed in partnership with Google, available to all employees of AHN and its parent company, Highmark Health.
+January 2025: AHN embarked on a clinical trial to use AI-powered ultrasound technology for diagnosing deep vein thrombosis (DVT) in cardiac patients, becoming the first in Western Pennsylvania and third in the US to participate.
+January 2025: AHN highlighted AI solutions like call center AI, revenue cycle automation, digital nursing, SmartRoom capabilities, and scaling ambient intelligence as key priorities for 2025.
+February 2025: AHN initiated the installation of new virtual care platforms at Wexford and Forbes Hospitals as the first step towards establishing ""smart rooms"" equipped with virtual care technology, aiming for 1,600 inpatient rooms across 10 hospitals by August 2026.
+February 2025: AHN is piloting three ambient listening AI platforms, planning to select and scale a solution by late July 2025 to its outpatient footprint, according to Becker's Hospital Review.
+April 2025: AHN implemented AI automation technology for ""touchless"" prior authorizations, becoming the first health system to fully automate the process with the help of Humata Health.
+May 2025: The Pennsylvania AI Opportunity Task Force conducted a tour of AHN to learn about AI development and applications within healthcare.
+July 2025: AHN partnered with Abridge to implement AI technology to create real-time physician notes, aiming to improve care and reduce costs."
+University of Maryland Medical System,Summarize University of Maryland Medical System AI adoption timeline,"The University of Maryland Medical System (UMMS) has been actively adopting artificial intelligence (AI) to enhance healthcare delivery, research, and operations. While the formal establishment of a dedicated AI institute in recent years marks a significant milestone, their engagement with AI-related technologies appears to have a longer history:
+Timeline:
+Pre-2022: Although specific dates are limited, the University of Maryland School of Medicine's research suggested in 2019 that new computer analytics, an early form of AI, might help solve the hospital readmission puzzle. By 2019, AI tools were being used in radiology for medical training and diagnostics, such as pulmonary nodule detection and brain hemorrhage analysis, according to UM Ventures.
+2020: UMMS participated in the largest study of its kind, which identified which COVID-19 patients faced the greatest risk of mortality during hospitalization, implying the use of data analysis and possibly early machine learning approaches.
+2021: UMMS implemented Gallion, an enterprise platform by its subsidiary iHarbor, to automate manual processes, reducing completion time by 75% and defect rates from 18% to 3%. While the specific AI components are not fully detailed, the automation suggests the use of AI/machine learning technologies.
+2022: A strategic partnership between the University of Maryland, Baltimore (UMB), University of Maryland, College Park (UMCP), and UMMS was announced to establish the Institute for Health Computing (UM-IHC).
+This institute focuses on leveraging AI, machine learning, and other computing methods for disease diagnosis, prevention, and treatment.
+It also involves incorporating technologies like machine learning algorithms, virtual and augmented reality, and 5G wireless technologies.
+The institute is expected to open in leased space in early 2023, with final completion of laboratory and office space at the North Bethesda Metro location anticipated in 2028.
+This institute focuses on leveraging AI, machine learning, and other computing methods for disease diagnosis, prevention, and treatment.
+It also involves incorporating technologies like machine learning algorithms, virtual and augmented reality, and 5G wireless technologies.
+The institute is expected to open in leased space in early 2023, with final completion of laboratory and office space at the North Bethesda Metro location anticipated in 2028.
+2023: The UM-IHC began operations in leased space in early 2023. According to the University of Maryland School of Medicine, researchers emphasized that while AI is important in predictive medicine, particularly for cancer treatment, it should be combined with other methods like mathematical modeling for optimal results.
+2025: UMMS continued its focus on AI adoption, as seen in their 2025 Strategic Plan, which includes objectives related to enhancing access to improved, sustainable, and high-value care through transformative strategies. A survey in 2024 revealed widespread AI adoption activities in leading US health systems, including UMMS, particularly in ambient notes and clinical documentation."
+University of Rochester Medical Center,Summarize University of Rochester Medical Center AI adoption timeline,"The University of Rochester Medical Center (URMC) has been actively involved in the adoption and integration of Artificial Intelligence (AI) and machine learning (ML) technologies into various aspects of healthcare, with a notable acceleration in recent years
+Timeline:
+2014: The University of Rochester established the New York State Center of Excellence (CoE) in Data Science and AI, demonstrating an early commitment to these technologies.
+2018: URMC's collaboration with Paige began with the aim of developing an AI tool to assist pathologists in cancer diagnosis.
+August 2019: URMC used AI to implement the ""Backstop"" program to reduce the risk of failed follow-ups for diagnostic recommendations, leading to a 74% reduction in delayed diagnoses and over 1,000 additional exams annually within the first 13 months.
+Early 2020s: With the advent of deep learning, AI systems capable of complex algorithms and self-learning started to be applied to clinical practice for risk assessment, improved diagnostic accuracy, and workflow efficiency.
+2021: The FDA authorized a De Novo Classification Request for Paige Prostate, an AI-based prostate cancer detection tool, highlighting a step towards regulatory approval for such applications, although AI adoption in digital pathology has been slower than in other specialties like radiology.
+2023: A paradigm shift occurred with the emergence of generative AI, particularly with OpenAI's ChatGPT, prompting increased focus on its potential in healthcare and daily life. URMC began exploring how to incorporate reliable and ethical AI into medical diagnosis and treatment, with clinicians, computer scientists, and ethicists collaborating across disciplines. URMC also received an NSF grant to reduce oral health disparities using AI via smartphones and community engagement. In August, Dr. Michael Hasselberg, URMC's Chief Digital Health Officer, observed that health systems were taking either a ""banning"" or ""embracing"" approach to generative AI adoption.
+2024: URMC launched initiatives like the ""Hyperion AI"" platform, designed to integrate large language models (LLMs) and ML models for tasks like text classification of EHR messages and ambient note documentation. Additionally, URMC is actively participating in efforts to validate the use of AI in radiology through programs like the DSI-ASSESS-AI registry of the American College of Radiology.
+February 2025: University of Rochester joined the Empire AI Consortium, further solidifying its position as a regional leader in AI research and development within healthcare."
+Catholic Health Services of Long Island,Summarize Catholic Health Services of Long Island AI adoption timeline,"Catholic Health Services of Long Island (CHS) has been exploring and implementing AI solutions. The information provided outlines key points in their AI adoption:
+Timeline:
+Prior to COVID-19: Technologies like remote monitoring, asset tracking, telemedicine, and advanced diagnostics were implemented, laying a foundation for AI-driven applications.
+December 2021: Data analysis and connected devices were used, particularly in home care and telemonitoring.
+May 2022: AI was used in diagnostic imaging to enhance disease detection and diagnosis.
+March 2025: Catholic Health launched an innovation arm focusing on both administrative and clinical uses of AI.
+May 2025: Class-action lawsuits concerning data breaches involving an AI service provider occurred.
+June 2025: AI technology to screen for brain aneurysms was pioneered and piloted at Good Samaritan Hospital before expansion.
+July 2025: AI and automation were outlined as a focus alongside cybersecurity and patient experience."
+Catholic Health System,Summarize Catholic Health System AI adoption timeline,"Catholic Health System AI adoption timeline
+Timeline:
+While widespread adoption is more recent, Catholic thought has long considered the ethical implications of technology in healthcare.
+The Vatican's ""Rome Call for AI Ethics"" (February 2020) provides a significant early milestone, advocating for human-centered AI development guided by principles like transparency, inclusion, responsibility, impartiality, reliability, and security/privacy.
+Catholic healthcare organizations, such as the Catholic Health Association, actively promote these ethical considerations in the context of AI in healthcare.
+Healthcare organizations, including Catholic systems, began exploring AI through pilot projects focused on specific use cases:
+Administrative tasks: Reducing physician after-hours administrative work, like charting.
+Workflow improvement: Streamlining tasks like patient registration and appointment scheduling.
+Data analysis: Identifying patient populations with specific conditions.
+Administrative tasks: Reducing physician after-hours administrative work, like charting.
+Workflow improvement: Streamlining tasks like patient registration and appointment scheduling.
+Data analysis: Identifying patient populations with specific conditions.
+Growing Optimism & Investment: Many healthcare leaders, including those in Catholic Health, express optimism about AI's impact and are increasingly investing in its adoption.
+Focus on Patient & Clinician Well-being: AI adoption focuses on enhancing the patient experience, improving patient outcomes, increasing clinician satisfaction, and addressing staff burnout and shortages.
+Data-Driven Personalization: Organizations like Catholic Medical Center in South Korea are using big data and AI to deliver personalized care plans and enhance patient engagement.
+Ethical Oversight Remains Crucial: The Catholic Health Association continues to emphasize the need for ethical AI development and deployment, particularly addressing potential biases and ensuring human dignity is protected.
+Scaling AI Capabilities: Scaling AI capabilities requires robust digital infrastructure, high-quality data, responsible and secure deployment, and strategic partnerships, according to the American Hospital Association.
+Evolving Regulatory Landscape: Existing regulations, like HIPAA, may not fully address AI-related data sharing and require updates to ensure patient privacy and ethical practices.
+Catholic Health's AI adoption is shaped by a strong ethical framework, particularly the Rome Call for AI Ethics and Catholic social teachings on human dignity.
+Early efforts focused on specific applications and addressing administrative burdens, according to Becker's Hospital Review.
+The current phase is characterized by broader adoption, integrating AI across various clinical and operational functions, and leveraging data for personalized care.
+Challenges related to data quality, privacy, ethical biases, workforce training, and regulatory frameworks require ongoing attention as AI adoption expands."
+United Health Services,Summarize United Health Services AI adoption timeline,"United Health Services AI adoption timeline
+Timeline:
+""Several years now"": UHS has been exploring and experimenting with AI for several years, monitoring how it can effectively support patient care.
+August 2024: UHS joined several other health systems and digital health companies to form the Founding Partner Program of Hippocratic AI. This program is developing the industry's first safety-focused Large Language Model (LLM) designed for healthcare.
+Early 2025: UHS launched an initiative using Hippocratic AI's Generative AI (GenAI) agents to assist with post-discharge patient engagement at two subsidiaries. The AI agents contact patients after hospital stays to review medication and post-discharge instructions, inquire about new or worsening conditions, and answer questions.
+June 16, 2025: UHS announced the launch of Hippocratic AI's Generative AI Healthcare Agents to assist with post-discharge patient engagement across its hospitals.
+Within the next few months (from June 2025): Based on positive patient feedback, UHS plans to expand the AI agent program to 10 additional acute care hospitals.
+After that: UHS plans to roll out the technology to all of its 29 acute care hospitals.
+UHS is focusing on using AI to support clinicians and enhance the patient experience.
+Initial applications include automating post-discharge follow-up calls, reviewing instructions, and answering patient questions.
+The goal is to improve patient engagement and potentially increase efficiency for nurses.
+UHS emphasizes a focus on responsible AI development and implementation, prioritizing safety, fairness, and accuracy, according to Universal Health Services, Inc..
+They are working with partners like Hippocratic AI to ensure safe and effective integration of data and technology.
+Human oversight and review processes are in place to address potential risks and ensure responsible use of AI."
+Main Line Health,Summarize Main Line Health AI adoption timeline,Main Line Health's journey with AI has been characterized by early adoption and strategic integration across various patient care and operational aspects
+Montefiore Health System,Summarize Montefiore Health System AI adoption timeline,No AI Overview found
